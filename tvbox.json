@@ -4,13 +4,25 @@
   "parse": 0,
   "playlet": "",
   "ignore_ssl": true,
-  "homePage": "非凡资源",
-  "homeKey": "ffzy",
+  "homePage": "🧧幸福之家🧧",
+  "homeKey": "home",
   "homeNum": 0,
   "sort": 0,
   "isCache": true,
-  "version": "1.1.1",
+  "version": "1.2.0",
   "sites": [
+    {
+      "key": "home",
+      "name": "🧧幸福之家🧧",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "hide": 0,
+      "playerType": 2,
+      "ext": ""
+    },
     {
       "key": "ffzy",
       "name": "非凡资源",
