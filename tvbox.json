@@ -9,13 +9,13 @@
   "homeNum": 0,
   "sort": 0,
   "isCache": true,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "sites": [
     {
       "key": "home",
       "name": "🧧幸福之家🧧",
       "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
